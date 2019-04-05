@@ -1,5 +1,4 @@
 import React from 'react'
-import { Link } from 'gatsby'
 import Layout from '../components/layout'
 import StarWarIndex from '../components/star-war-index'
 import SEO from '../components/seo'
